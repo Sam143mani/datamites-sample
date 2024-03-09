@@ -1,1 +1,4 @@
 learning git version control system
+
+made 1st version 
+now writing some lines for 2nd version
